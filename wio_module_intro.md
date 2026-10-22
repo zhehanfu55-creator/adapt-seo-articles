@@ -342,7 +342,7 @@ Learn more from the [AWS IoT Core for Amazon Sidewalk documentation](https://doc
 
 Discover how the Seeed LoRa Modules supports your journey from early evaluation to real-world deployment, with setup guides, reference designs, SDKs, KiCad libraries, hands-on testing, and projects built by developers. Explore connectivity options across LoRa, Wi-Fi, BLE, GNSS, and more, then find the module and purchasing path that match your technical requirements, location, and development stage.
 
-Explore the ++[Wio module portfolio](https://www.seeedstudio.com/wio-module)++, or contact ++[techsupport@seeed.io](mailto:techsupport@seeed.io)++ to discuss your project.
+Explore the [Wio module portfolio](https://www.seeedstudio.com/wio-module), or contact [techsupport@seeed.io](mailto:techsupport@seeed.io) to discuss your project.
 
 
 
