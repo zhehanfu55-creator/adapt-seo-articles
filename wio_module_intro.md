@@ -1,18 +1,19 @@
 ---
-
-## description: Wio LoRa Module
-title: Wio LoRa Module
+description: Wio LoRa Module
+title: Wio LoRa Module Intro
 keywords:
   - LoRa Module
-image: [https://files.seeedstudio.com/media/slidebanner/wio_module_banner2_familyphoto.png](https://files.seeedstudio.com/media/slidebanner/wio_module_banner2_familyphoto.png)
-slug: /wio_module_introduction
+image: https://files.seeedstudio.com/media/slidebanner/wio_module_banner2_familyphoto.png
+slug: /meshtastic_introduction
 sidebar_position: 1
 last_update:
-  date: 10/21/2026
-  author: Seeed Studio
-createdAt: '2026-10-21'
-updatedAt: '2026-10-21'
-url: ''
+  date: 22/11/2026
+  author: Asti
+createdAt: '2026-10-22'
+updatedAt: '2026-10-22'
+url: https:
+---
+
 
 A **LoRa module** is a compact wireless hardware component built around a LoRa (Long Range) radio transceiver. Some LoRa modules also integrate a microcontroller (MCU), while transceiver-only modules require an external MCU. They enable long-range, low-power wireless data exchange in Internet of Things (IoT) systems.
 
