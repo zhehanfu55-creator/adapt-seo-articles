@@ -4,15 +4,16 @@ title: Wio LoRa Module Intro
 keywords:
   - LoRa Module
 image: https://files.seeedstudio.com/media/slidebanner/wio_module_banner2_familyphoto.png
-slug: /meshtastic_introduction
+slug: /wio_module_introduction
 sidebar_position: 1
 last_update:
-  date: 22/11/2026
+  date: 22/10/2026
   author: Asti
 createdAt: '2026-10-22'
 updatedAt: '2026-10-22'
-url: https:
+url: https://wiki.seeedstudio.com/wio_module_introduction/
 ---
+  
 
 
 A **LoRa module** is a compact wireless hardware component built around a LoRa (Long Range) radio transceiver. Some LoRa modules also integrate a microcontroller (MCU), while transceiver-only modules require an external MCU. They enable long-range, low-power wireless data exchange in Internet of Things (IoT) systems.
@@ -196,67 +197,73 @@ Learn more from the [AWS IoT Core for Amazon Sidewalk documentation](https://doc
 </tr>
 </tbody></table>
 
+
 ### Development Boards and Evaluation Kits
 
 <table align="center">
-<tbody><tr>
+<tbody>
+<tr>
 <th>Semtech LR2021 Evaluation Kit-EU868</th>
 <th>Semtech LR2021 Evaluation Kit-US915</th>
 <th>Semtech LR2021 Evaluation Kit-CN490</th>
 </tr>
 <tr>
-<td><div align="center"><img src="https://media-cdn.seeedstudio.com/media/catalog/product/cache/48035b5512857d0ab907b31a092da78f/1/-/1-100039980-lr2021-lora-plus-evaluation-kit-868mhz-eu.jpg" style={{width:300, height:'auto'}}/></div></td>
-<td><div align="center"><img src="https://media-cdn.seeedstudio.com/media/catalog/product/cache/48035b5512857d0ab907b31a092da78f/1/-/1-100035909-lr2021-lora-plus-evaluation-kit-915mhz-us.jpg" style={{width:350, height:'auto'}}/></div></td>
-<td><div align="center"><img src="https://media-cdn.seeedstudio.com/media/catalog/product/cache/48035b5512857d0ab907b31a092da78f/1/-/1-100025096-lr2021-lora-plus-evaluation-kit-490mhz-cn_1.jpg" style={{width:350, height:'auto'}}/></div></td>
+<td align="center">
+<img src="https://media-cdn.seeedstudio.com/media/catalog/product/cache/48035b5512857d0ab907b31a092da78f/1/-/1-100039980-lr2021-lora-plus-evaluation-kit-868mhz-eu.jpg" width="140" alt="LR2021 EU868" />
+</td>
+<td align="center">
+<img src="https://media-cdn.seeedstudio.com/media/catalog/product/cache/48035b5512857d0ab907b31a092da78f/1/-/1-100035909-lr2021-lora-plus-evaluation-kit-915mhz-us.jpg" width="140" alt="LR2021 US915" />
+</td>
+<td align="center">
+<img src="https://media-cdn.seeedstudio.com/media/catalog/product/cache/48035b5512857d0ab907b31a092da78f/1/-/1-100025096-lr2021-lora-plus-evaluation-kit-490mhz-cn_1.jpg" width="140" alt="LR2021 CN490" />
+</td>
 </tr>
 <tr>
-<td align="center"><div class="get_one_now_container" style={{textAlign: 'center'}}>
-<a class="get_one_now_item" href="https://www.seeedstudio.com/LR2021-LoRa-Plus-Evaluation-kit-868Mhz-EU-V2-0-p-6697.html" target="_blank">
-<strong><span><font color={'FFFFFF'} size={"4"}> Check More🖱️</font></span></strong>
-</a>
-</div></td>
-<td align="center"><div class="get_one_now_container" style={{textAlign: 'center'}}>
-<a class="get_one_now_item" href="https://www.seeedstudio.com/LR2021-LoRa-Plus-Evaluation-kit-915Mhz-US-V2-0-p-6698.html" target="_blank">
-<strong><span><font color={'FFFFFF'} size={"4"}> Check More🖱️</font></span></strong>
-</a>
-</div></td>
-<td align="center"><div class="get_one_now_container" style={{textAlign: 'center'}}>
-<a class="get_one_now_item" href="https://www.seeedstudio.com/LR2021-LoRa-Plus-Evaluation-kit-490Mhz-CN-p-6699.html" target="_blank">
-<strong><span><font color={'FFFFFF'} size={"4"}> Check More🖱️</font></span></strong>
-</a>
-</div></td>
+<td align="center">
+<a href="https://www.seeedstudio.com/LR2021-LoRa-Plus-Evaluation-kit-868Mhz-EU-V2-0-p-6697.html" target="_blank">Check More 🖱️</a>
+</td>
+<td align="center">
+<a href="https://www.seeedstudio.com/LR2021-LoRa-Plus-Evaluation-kit-915Mhz-US-V2-0-p-6698.html" target="_blank">Check More 🖱️</a>
+</td>
+<td align="center">
+<a href="https://www.seeedstudio.com/LR2021-LoRa-Plus-Evaluation-kit-490Mhz-CN-p-6699.html" target="_blank">Check More 🖱️</a>
+</td>
 </tr>
-</tbody></table>
+</tbody>
+</table>
 
 <table align="center">
-<tbody><tr>
+<tbody>
+<tr>
 <th>Semtech LR2012 Evaluation Kit-EU868</th>
 <th>Semtech LR2012 Evaluation Kit-US915</th>
 <th>Wio-WM1110 Dev Kit</th>
 </tr>
 <tr>
-<td><div align="center"><img src="https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/1/0/100092071-gallery_img_1.png" style={{width:300, height:'auto'}}/></div></td>
-<td><div align="center"><img src="https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/1/0/100015571-gallery_img_1.png" style={{width:350, height:'auto'}}/></div></td>
-<td><div align="center"><img src="https://media-cdn.seeedstudio.com/media/catalog/product/cache/48035b5512857d0ab907b31a092da78f/1/-/1-114993082-wio-wm1110-dev-kit-45font.jpg" style={{width:350, height:'auto'}}/></div></td>
+<td align="center">
+<img src="https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/1/0/100092071-gallery_img_1.png" width="140" alt="LR2012 EU868" />
+</td>
+<td align="center">
+<img src="https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/1/0/100015571-gallery_img_1.png" width="140" alt="LR2012 US915" />
+</td>
+<td align="center">
+<img src="https://media-cdn.seeedstudio.com/media/catalog/product/cache/48035b5512857d0ab907b31a092da78f/1/-/1-114993082-wio-wm1110-dev-kit-45font.jpg" width="140" alt="Wio-WM1110 Dev Kit" />
+</td>
 </tr>
 <tr>
-<td align="center"><div class="get_one_now_container" style={{textAlign: 'center'}}>
-<a class="get_one_now_item" href="https://www.seeedstudio.com/semtech-lr2012-lora-plus-evaluation-kit-eu868-p-7004.html" target="_blank">
-<strong><span><font color={'FFFFFF'} size={"4"}> Check More🖱️</font></span></strong>
-</a>
-</div></td>
-<td align="center"><div class="get_one_now_container" style={{textAlign: 'center'}}>
-<a class="get_one_now_item" href="https://www.seeedstudio.com/semtech-lr2012-lora-plus-evaluation-kit-us915-p-7005.html" target="_blank">
-<strong><span><font color={'FFFFFF'} size={"4"}> Check More🖱️</font></span></strong>
-</a>
-</div></td>
-<td align="center"><div class="get_one_now_container" style={{textAlign: 'center'}}>
-<a class="get_one_now_item" href="https://www.seeedstudio.com/Wio-WM1110-Dev-Kit-p-5677.html" target="_blank">
-<strong><span><font color={'FFFFFF'} size={"4"}> Check More🖱️</font></span></strong>
-</a>
-</div></td>
+<td align="center">
+<a href="https://www.seeedstudio.com/semtech-lr2012-lora-plus-evaluation-kit-eu868-p-7004.html" target="_blank">Check More 🖱️</a>
+</td>
+<td align="center">
+<a href="https://www.seeedstudio.com/semtech-lr2012-lora-plus-evaluation-kit-us915-p-7005.html" target="_blank">Check More 🖱️</a>
+</td>
+<td align="center">
+<a href="https://www.seeedstudio.com/Wio-WM1110-Dev-Kit-p-5677.html" target="_blank">Check More 🖱️</a>
+</td>
 </tr>
-</tbody></table>
+</tbody>
+</table>
+
 
 <table align="center">
 <tbody><tr>
